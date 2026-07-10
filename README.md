@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mona 👋
 
-<!--
-**monafouad/monafouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Product Engineer based in Zürich.
 
-Here are some ideas to get you started:
+I enjoy building products where frontend engineering, product thinking, and UX come together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- React
+- TypeScript
+- JavaScript
+- HTML & CSS
+- Supabase
+- Storybook
+
+## Interests
+
+- Product engineering
+- Frontend architecture
+- Design systems
+- User experience
